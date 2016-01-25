@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <solid android:color="@android:color/transparent" />
+    <stroke
+        android:width="@dimen/common_circle_width"
+        android:color="@color/warning_stroke_color" />
+</shape>
+
+<!-- From: file:/C:/Users/Gary/Dev/Android%20Studio%20Workspace/SweetAlertDialog/library/src/main/res/drawable/warning_circle.xml -->

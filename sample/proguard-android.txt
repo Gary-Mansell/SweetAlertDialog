@@ -1,0 +1,3 @@
+ -keep class com.garymansell.SweetAlert.Rotate3dAnimation {
+    public <init>(...);
+ }
